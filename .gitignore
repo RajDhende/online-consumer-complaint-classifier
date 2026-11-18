@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Large raw datasets (keep the curated complaints.csv <50MB in repo)
+data/complaints_full.csv
+*.csv.zip
+*.zip
+
+# OS and Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
